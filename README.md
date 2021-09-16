@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src="https://github.com/rocketseat-education/nlw-06-discover/raw/main/.github/rocketq.png" width="220px" />
+  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src="https://github.com/rocketseat-education/nlw-06-discover/raw/main/.github/Rocket_Q.png" width="100%">
+  <img alt="Rocket.Q" src=".github/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -39,10 +39,12 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009821158959690135/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
